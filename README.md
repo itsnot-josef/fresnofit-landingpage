@@ -1,3 +1,3 @@
 # Fresno Fit | Fresno, ca 
 ## First landing page
-<pLets see if this works.</p>
+<p>Lets see if this works.</p>

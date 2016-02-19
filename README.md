@@ -7,3 +7,6 @@
 
 ### February 18th, 2016
 <p>my first push done with no help</p>
+
+### February 19th, 2016
+<p>Im gettign the hang of this<p

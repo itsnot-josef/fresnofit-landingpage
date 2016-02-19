@@ -1,5 +1,7 @@
 /*GLOBAL STYLES */
 
+@import url(https://fonts.googleapis.com/css?family=Orbitron|Poiret+One|Ubuntu);
+
 main {
     width:90%; 
     margin:25px auto;
@@ -17,7 +19,7 @@ footer {
 }
 
 footer p {
-    color:#FFFFFF;
+    color:#4c4c4d;
     text-align:center;
     font-size:16px;
     
@@ -35,7 +37,7 @@ header {
 }
 
 p {
-    color:#FF7900;
+    color:#4c4c4d;
     text-align:center;
 }
 
@@ -52,7 +54,7 @@ a {
 }
 
 .botton:hover {
-    background-color:#FF0099;
+    background-color:#4c4c4d;
 }
 
 /*OTHER STYLES*/
